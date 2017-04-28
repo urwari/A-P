@@ -7,8 +7,6 @@
 #include "stdafx.h"
 #include <iostream>
 #include <conio.h>
-#include<locale.h> 
-#include<math.h>
 using namespace std;
 
 class CBuildings {
