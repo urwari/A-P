@@ -50,7 +50,7 @@ public:
 int main()
 {
 	setlocale(LC_ALL, "RUS");
-	const int S = 2;	// Количество треугольников
+	const int S = 2;	// Количество зданий
 	CBuildings B[S];
 	for (int i = 0; i < S; i++) {
 		cout << "\n\tЖилой дом #" << i + 1;
